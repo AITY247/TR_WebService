@@ -365,7 +365,7 @@ server.port=8081
 | 1 | Ardis Pradana W| Setup PostgreSQL & MongoDB |
 | 2 | Farros Aqila | CRUD User |
 | 3 | David Stepehen B| CRUD Product |
-| 4 | Alam Aji P JWT Authentication |
+| 4 | Alam Aji P | JWT Authentication |
 | 5 | Ridho Sulistyo | Authorization & Documentation |
 
 ---

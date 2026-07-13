@@ -34,12 +34,25 @@ Pastikan software berikut sudah terinstall.
 
 ---
 
-# Clone Repository
+## Clone Repository
+
+Clone project
 
 ```bash
-git clone https://github.com/username/repository.git
+git clone <URL_REPOSITORY>
+```
 
-cd repository
+Masuk ke folder project
+
+```bash
+cd <NAMA_FOLDER_PROJECT>
+```
+
+Contoh
+
+```bash
+git clone https://github.com/kelompok5/demo.git
+cd demo
 ```
 
 ---
@@ -349,11 +362,11 @@ server.port=8081
 
 | No | Nama | Tugas |
 |----|------|-------|
-| 1 | ... | Setup PostgreSQL & MongoDB |
-| 2 | ... | CRUD User |
-| 3 | ... | CRUD Product |
-| 4 | ... | JWT Authentication |
-| 5 | ... | Authorization & Documentation |
+| 1 | Ardis Pradana W| Setup PostgreSQL & MongoDB |
+| 2 | Farros Aqila | CRUD User |
+| 3 | David Stepehen B| CRUD Product |
+| 4 | Alam Aji P JWT Authentication |
+| 5 | Ridho Sulistyo | Authorization & Documentation |
 
 ---
 

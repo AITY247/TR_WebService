@@ -75,6 +75,8 @@ Klik kanan
 Create
     Database
 ```
+<img width="1393" height="574" alt="image" src="https://github.com/user-attachments/assets/f8272d28-cf69-47a9-9f3d-6895ba2020e0" />
+
 
 Masukkan
 
@@ -89,6 +91,7 @@ Owner
 ```
 postgres
 ```
+<img width="1383" height="753" alt="image" src="https://github.com/user-attachments/assets/63163286-f482-40dc-94ff-829232c74ed4" />
 
 Kemudian klik
 
@@ -115,6 +118,7 @@ atau
 ```
 Create Database
 ```
+<img width="1829" height="650" alt="image" src="https://github.com/user-attachments/assets/7e219c17-fce6-4d77-bc9e-0538f2be5b00" />
 
 Isi
 
@@ -129,6 +133,7 @@ Collection pertama
 ```
 products
 ```
+<img width="1461" height="743" alt="image" src="https://github.com/user-attachments/assets/0c1f9444-6aad-4690-9f23-a48c5488a617" />
 
 Kemudian klik
 
@@ -157,7 +162,7 @@ spring.application.name=demo
 
 spring.datasource.url=jdbc:postgresql://localhost:5432/webservice_db
 spring.datasource.username=postgres
-spring.datasource.password=PASSWORD_POSTGRES
+spring.datasource.password=PASSWORD_POSTGRES_ANDA
 
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
